@@ -1,0 +1,6 @@
+Task_____:	1
+Solve____:	Host 500
+Size_____:	50
+Time_step:	0.001
+Time_____:	0.02
+Gradient_:	10.031201230003
